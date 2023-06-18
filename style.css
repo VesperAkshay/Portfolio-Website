@@ -1,0 +1,46 @@
+/* CSS Stylesheet */
+
+/* Targeting the body element */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Targeting the h1 element */
+h1 {
+  color: #333333;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Targeting the p element */
+p {
+  color: #666666;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* Targeting the .container class */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Targeting the .button class */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333333;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #555555;
+}
